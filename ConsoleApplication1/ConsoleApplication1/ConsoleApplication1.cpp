@@ -3,10 +3,13 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "test\n";
-    std::cout << "Hello World!\n";
+    cout << "test\n";
+    cout << "branch develop\n";
+    cout << "Hello World!\n";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
